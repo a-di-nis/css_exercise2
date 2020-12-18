@@ -1,0 +1,5 @@
+Different way to add Bootstrap
+Put ALWAYS personal css file UNDER Bootstrap
+can change <i> of font awesome to span
+for Bootstrap carousels, go in documentation to check features "like pause on hover"
+aria-hidden -> check more
